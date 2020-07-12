@@ -3,7 +3,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jv-acosta/)](https://www.linkedin.com/in/jv-acosta/)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/jv_acosta_)](https://twitter.com/jv_acosta_)
 ## Hi, I'm João 😄 
-I love working with Java, I always try to learn current technologies, a boy from the countryside who came to explore the world of technology.
+#### I love working with Java, I always try to learn current technologies, a boy from the countryside who came to explore the world of technology.
 
 <!--
 **joao-vitor-costa/joao-vitor-costa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
