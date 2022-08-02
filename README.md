@@ -1,7 +1,7 @@
 # Hi, I'm João 😄 
 #### I love working with Java, I always try to learn current technologies, a boy from the countryside who came to explore the world of technology.
 
-## 📊 GitHub Analytics
+## 📊 GitHub Analytics - Academic 👨‍🎓
 
 <div style="display:flex; justify-content:space-around">
   <img src="https://github-readme-stats.vercel.app/api?username=joao-vitor-costa&show_icons=true&theme=dracula" min-width="400px" max-width="360px" width="400px" alt="github stats">
